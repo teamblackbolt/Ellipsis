@@ -57,10 +57,10 @@ Seth Cheek
 Bizzeh
 Ben Scott
 Piet Creemers
-Markus Güntner
+Markus GÃ¼ntner
 Daniel Scholl
 Nick Goedhals
-Karen Waranis
+Drew Waranis
 Lars Stepputt
 Fringuelli Fabrizio
 Jeroen Camp
@@ -80,7 +80,7 @@ Cliff Stephens
 Walid Sadfi
 Stavros Labrou
 Brandon Sylvester
-Michael Østergaard Sørensen
+Michael Ã˜stergaard SÃ¸rensen
 Alexandre Pilloud
 Ryan Flagler
 Lyndon West
@@ -99,7 +99,7 @@ Jesper Lindquist
 Dean Moiler
 Alan Hawkins
 Barry Williams
-Johan Wessberg 
+Johan Wessberg
 Mike Hertel
 Kenny Johansson
 Stuart McLean
